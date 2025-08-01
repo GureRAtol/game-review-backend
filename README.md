@@ -1,9 +1,18 @@
-# Sanity Clean Content Studio
+# Game Reviews Site
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+## Project Overview
+This project is a **Video Game Review Site** that showcases detailed reviews of popular video games. Users can browse, search, and read in-depth reviews to help them discover games across multiple genres and platforms.
 
-Now you can do the following things:
+## Team Members
+- Gurpreet Singh (Team Lead)  
+- Manmeet Kaur  
+- Neha  
+- Simranjot Kaur  
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+## Technology Stack
+
+### Headless CMS  
+We used **Sanity.io** as our Headless CMS backend. Sanity provides a flexible content studio for managing review data and exposes a REST API that our frontend consumes to fetch review content dynamically.
+
+## Deployment
+- Backend (Sanity CMS): Hosted on Sanity’s cloud platform  
